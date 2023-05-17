@@ -1,8 +1,8 @@
-# DeepNotes
+# Upgraded Notes
 
 An open source, end-to-end encrypted visual note-taking tool with deep page navigation.
 
-## Special thanks to these libraries for making DeepNotes possible:
+## Special thanks to these libraries for making this upgraded notes app possible:
 
 - [Vue.js](https://vuejs.org/): Reactivity, component system, and more
 - [Quasar Framework](https://quasar.dev/): Cross-platform frontend framework
